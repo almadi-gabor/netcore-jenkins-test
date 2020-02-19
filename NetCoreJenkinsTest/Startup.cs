@@ -11,6 +11,7 @@ using Microsoft.Extensions.Hosting;
 
 namespace NetCoreJenkinsTest
 {
+    // this is the startup
     public class Startup
     {
         public Startup(IConfiguration configuration)
